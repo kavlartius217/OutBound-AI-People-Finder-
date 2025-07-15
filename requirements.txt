@@ -1,0 +1,7 @@
+streamlit
+crewai
+langchain-openai
+crewai-tools
+crewai[tools]
+exa-py
+pysqlite3-binary
